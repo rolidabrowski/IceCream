@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "1.1.0",
   "description": "",
-  "homepage": "https://github.com/rolidabrowski/ice-cream-grupa-7",
+  "homepage": "https://github.com/rolidabrowski/IceCream",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /ice-cream-grupa-7"
+    "build": "parcel build src/*.html --public-url /IceCream"
   },
   "repository": {
     "type": "git",
