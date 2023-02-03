@@ -39,7 +39,7 @@ swoje.
 
 Po jakimś czasie stronę mozna będzie zobaczyć na zywo pod adresem który jest wpisany w poprawione
 właściwości `homepage`, na przykład
-[https://rolidabrowski.github.io/ice-cream-grupa-7/](https://rolidabrowski.github.io/ice-cream-grupa-7/).
+[https://rolidabrowski.github.io/IceCream/](https://rolidabrowski.github.io/IceCream/).
 
 ## Pliki i folderzy
 
